@@ -1,0 +1,9 @@
+matplotlib==3.7.1
+pandas==2.0.1
+pandas==2.0.2
+pip==22.3.1
+pip==23.1.2
+seaborn==0.12.2
+streamlit==1.22.0
+urlextract==1.8.0
+wordcloud==1.9.2
